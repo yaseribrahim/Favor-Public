@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bottom_sheet"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:behavior_hideable="true"
+    app:layout_behavior="android.support.design.widget.BottomSheetBehavior"
+    android:background="@color/white">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/payment_title_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Payment"
+            android:textSize="24sp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_alignBottom="@+id/money_icon"
+            android:fontFamily="@font/raleway"
+            android:textColor="@color/mediumGray"/>
+
+        <TextView
+            android:id="@+id/money_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/payment_price"
+            android:text="$"
+            android:textColor="@color/colorAlternate1"
+            android:textSize="32sp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"/>
+
+        <EditText
+            android:id="@+id/payment_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/money_icon"
+            android:layout_alignParentEnd="true"
+            android:background="@null"
+            android:layout_marginRight="16dp"
+            android:cursorVisible="true"
+            android:inputType="numberDecimal"
+            android:text="0.00"
+            android:textColor="@color/colorAlternate1"
+            android:textSize="32sp" />
+
+        <!-- TODO: get approval for all of the places where you display or reference Google Pay within your UI in order to gain production access-->
+
+        <ImageButton
+            android:id="@+id/google_pay_button"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_below="@id/payment_price"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/googlepay_button_background"
+            android:src="@drawable/googlepay_button_content"/>
+
+    </RelativeLayout>
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/below_inbox_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="129dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp"
+        android:src="@drawable/ic_undraw_co_workers_ujs6"/>
+
+    <TextView
+        android:id="@+id/below_inbox_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/below_inbox_icon"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginTop="16dp"
+        android:text="When you ask a favour or offer one, your chats will show up here"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:textColor="@color/mediumGray"
+        android:fontFamily="@font/raleway"
+        android:textStyle=""/>
+</RelativeLayout>

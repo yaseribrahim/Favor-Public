@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/empty_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="129dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp"
+        android:src="@drawable/ic_undraw_task_31wc"/>
+
+    <TextView
+        android:id="@+id/empty_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/empty_icon"
+        android:layout_marginTop="16dp"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:text="That's it!"
+        android:fontFamily="@font/raleway"
+        android:textSize="24dp"
+        android:textStyle="bold"
+        android:textColor="@color/colorOnPrimary"/>
+
+    <TextView
+        android:id="@+id/empty_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/empty_title"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginTop="16dp"
+        android:text="These are all the posts you are in radius of. Help someone out!"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:textColor="@color/mediumGray"
+        android:fontFamily="@font/raleway"
+        android:textStyle=""/>
+</RelativeLayout>
