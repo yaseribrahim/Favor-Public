@@ -11,30 +11,37 @@ So far, a user on the app can do the following:
 4. Share their location by sending a map with a pin on current location
 
 <p align="middle" float="left">
-  <img src="/Users/Ydot/Documents/PublicFavor/screenshots/Screenshot_1573543334.png" alt="Screenshot_1573543334" style="zoom:15%;" />
+  <img src="screenshots/Screenshot_1573543334.png" alt="Screenshot_1573543334" width="250" />
 
-  <img src="/Users/Ydot/Documents/PublicFavor/screenshots/Screenshot_1573540520.png" alt="Screenshot_1573540520" style="zoom:15%;" />
+  <img src="screenshots/Screenshot_1573540520.png" alt="Screenshot_1573540520" width="250" />
 
-  <img src="/Users/Ydot/Documents/PublicFavor/screenshots/Screenshot_1573567087.png" alt="Screenshot_1573567087" style="zoom:15%;" />
-
-  <img src="/Users/Ydot/Documents/PublicFavor/screenshots/Screenshot_1573567100.png" alt="Screenshot_1573567100" style="zoom:15%;" />
+  <img src="screenshots/Screenshot_1573567087.png" alt="Screenshot_1573567087" width="250" />
 </p>
 
-<p float="left">
-  <img src="/Users/Ydot/Documents/PublicFavor/screenshots/Screenshot_1573540784.png" alt="Screenshot_1573540784" style="zoom:15%;" />
+<p align="middle" float="left">
+  <img src="screenshots/Screenshot_1573567100.png" alt="Screenshot_1573567100" width="250" />
 
-  <img src="/Users/Ydot/Documents/PublicFavor/screenshots/Screenshot_1573570101.png" alt="Screenshot_1573570101" style="zoom:15%;" />
+  <img src="screenshots/Screenshot_1573540784.png" alt="Screenshot_1573540784" width="250" />
 
-  <img src="/Users/Ydot/Documents/PublicFavor/screenshots/Screenshot_1573570802.png" alt="Screenshot_1573570802" style="zoom:15%;" />
+  <img src="screenshots/Screenshot_1573570101.png" alt="Screenshot_1573570101" width="250" />
 
-  <img src="/Users/Ydot/Documents/PublicFavor/screenshots/Screenshot_1573569947.png" alt="Screenshot_1573569947" style="zoom:15%;" />
+</p>
+
+
+
+
+<p align="middle" float="left">
+
+  <img src="screenshots/Screenshot_1573570802.png" alt="Screenshot_1573570802" width="250" />
+
+  <img src="screenshots/Screenshot_1573569947.png" alt="Screenshot_1573569947" width="250" />
 </p>
 
 ## In Progress
 
 Currently working on the profile page to display users live posts.
 
-<img src="screenshots/Screenshot_1573567254.png" alt="Screenshot_1573567254" style="zoom:15%;" align="center" />
+<img src="screenshots/Screenshot_1573567254.png" alt="Screenshot_1573567254" width="250" align="center" />
 
 ## TO DO
 
