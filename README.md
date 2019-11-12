@@ -40,7 +40,7 @@ So far, a user on the app can do the following:
 
 Currently working on the profile page to display users live posts.
 <p align="middle" float="left">
-  <img src="screenshots/Screenshot_1573567254.png" alt="Screenshot_1573567254" width="250" align="center" />
+  <img src="screenshots/Screenshot_1573567254.png" alt="Screenshot_1573567254" width="325" align="center" />
 </p>
 
 
