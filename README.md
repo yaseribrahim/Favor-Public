@@ -52,7 +52,6 @@ Currently working on the profile page to display users live posts.
 4. Show ratings on profile view and add sign out option(i.e remove settings page from bottomnav)
 5. Sign in with Google/Uni email
 6. Show that account is verified if logged in with uni email
-7.
 
 ## Bugs
 
