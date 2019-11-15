@@ -9,7 +9,7 @@ The purpose of this app is to create a trust-based, real-time platform where str
 
 # How
 
-The thought process that went into it may be more fitting for a blog post but here's the tech the app relys on:
+The thought process that went into it may be more fitting for a blog post but here's the tech the app relies on:
 
 ### Android
 
