@@ -5,8 +5,6 @@ The purpose of this app is to create a trust-based, real-time platform where str
 1. Because they're in need of something immediately 
 2. Because they can make money off of it without much inconveniece
 
-
-
 ## Completed
 
 Here are some of the available usecases so far:
